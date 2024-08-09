@@ -1,4 +1,5 @@
-<h3>Tic Tac Toe on Aptos</h4>
+<br><h3>Tic Tac Toe on Aptos</h4>
+<br>
 A simple implementation of the Tic Tac Toe game using the Move language on the Aptos blockchain.
 <br>
 Overview
